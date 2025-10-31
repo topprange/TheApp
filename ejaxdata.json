@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Donate",
+    "Name": "Give",
     "Location": "Make a Donation",
     "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
     "Image": "https://raw.githubusercontent.com/topprange/TheApp/refs/heads/main/hand.png",
@@ -118,5 +118,6 @@
   }
 
 ]
+
 
 
