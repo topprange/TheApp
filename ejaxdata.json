@@ -19,8 +19,8 @@
   },
   {
     "Name": "Announcements",
-    "Location": "Weekly announcements",
-    "SubTitle": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
+    "SubTitle": "Weekly announcements",
+    "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
     "Image": "https://raw.githubusercontent.com/topprange/TheApp/refs/heads/main/bullhorn.png",
     "Population": 12000,
     "Latitude": 1.957709,
@@ -118,6 +118,7 @@
   }
 
 ]
+
 
 
 
