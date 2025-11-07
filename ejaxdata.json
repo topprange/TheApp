@@ -43,81 +43,9 @@
     "Population": 19000,
     "Latitude": -14.235004,
     "Longitude": -51.92528
-  },
-  {
-    "Name": "Howler Monkey",
-    "SubTitle": "South America",
-    "Details": "Howler monkeys are among the largest of the New World monkeys. Fifteen species are currently recognised. Previously classified in the family Cebidae, they are now placed in the family Atelidae.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
-    "Population": 8000,
-    "Latitude": -8.783195,
-    "Longitude": -55.491477
-  },
-  {
-    "Name": "Japanese Macaque",
-    "SubTitle": "Japan",
-    "Details": "The Japanese macaque, is a terrestrial Old World monkey species native to Japan. They are also sometimes known as the snow monkey because they live in areas where snow covers the ground for months each",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
-    "Population": 1000,
-    "Latitude": 36.204824,
-    "Longitude": 138.252924
-  },
-  {
-    "Name": "Mandrill",
-    "SubTitle": "Southern Cameroon, Gabon, and Congo",
-    "Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/mandrill.jpg",
-    "Population": 17000,
-    "Latitude": 7.369722,
-    "Longitude": 12.354722
-  },
-  {
-    "Name": "Proboscis Monkey",
-    "SubTitle": "Borneo",
-    "Details": "The proboscis monkey or long-nosed monkey, known as the bekantan in Malay, is a reddish-brown arboreal Old World monkey that is endemic to the south-east Asian island of Borneo.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/borneo.jpg",
-    "Population": 15000,
-    "Latitude": 0.961883,
-    "Longitude": 114.55485
-  },
-  {
-    "Name": "Sebastian",
-    "SubTitle": "Seattle",
-    "Details": "This little trouble maker lives in Seattle with James and loves traveling on adventures with James and tweeting @MotzMonkeys. He by far is an Android fanboy and is getting ready for the new Google Pixel 9!",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/sebastian.jpg",
-    "Population": 1,
-    "Latitude": 47.606209,
-    "Longitude": -122.332071
-  },
-  {
-    "Name": "Henry",
-    "SubTitle": "Phoenix",
-    "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone Xs!",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/henry.jpg",
-    "Population": 1,
-    "Latitude": 33.448377,
-    "Longitude": -112.074037
-  },
-  {
-    "Name": "Red-shanked douc",
-    "SubTitle": "Vietnam",
-    "Details": "The red-shanked douc is a species of Old World monkey, among the most colourful of all primates. The douc is an arboreal and diurnal monkey that eats and sleeps in the trees of the forest.",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/douc.jpg",
-    "Population": 1300,
-    "Latitude": 16.111648,
-    "Longitude": 108.262122
-  },
-  {
-    "Name": "Mooch",
-    "SubTitle": "Seattle",
-    "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. Her favorite platform is iOS by far and is excited for the new iPhone 16!",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/Mooch.PNG",
-    "Population": 1,
-    "Latitude": 47.608013,
-    "Longitude": -122.335167
   }
-
 ]
+
 
 
 
